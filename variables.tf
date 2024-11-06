@@ -1,1 +1,5 @@
 # variables file
+
+terraform {
+  
+}
